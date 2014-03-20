@@ -1,0 +1,23 @@
+http://stackoverflow.com/questions/9286861/get-ip-address-with-url-string-java
+
+http://docs.oracle.com/javase/tutorial/networking/nifs/listing.html
+
+http://stackoverflow.com/questions/6071130/i-want-the-fastest-way-to-search-all-ip-addresses-of-the-pcs-connected-to-lan-u
+
+http://docs.oracle.com/javase/7/docs/technotes/guides/net/overview/overview.html
+
+http://stackoverflow.com/questions/13832592/how-to-get-ip-add-in-java-like-following-link
+
+USE: >ping www.google.com
+
+
+
+
+http://www.mkyong.com/java/how-to-get-ip-address-in-java/
+http://docs.oracle.com/javase/7/docs/api/java/net/InetAddress.html
+
+http://www.mkyong.com/java/how-to-get-client-ip-address-in-java/
+
+!!http://examples.javacodegeeks.com/core-java/net/inetaddress/how-to-get-ip-address-in-java-using-inetaddress/!!!
+
+http://mrbool.com/how-to-get-ip-of-any-website-with-java/28585
